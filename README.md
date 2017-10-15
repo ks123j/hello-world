@@ -1,2 +1,2 @@
 # hello-world
-Coding is being exciting!
+I love to code!
